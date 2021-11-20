@@ -1,6 +1,6 @@
 # test_docstring_and_sphinx
 
-This is a template file to manage your research environment with pytest and document using sphinx.
+This is a template file to manage your research environment with doctest and document using sphinx.
 
 ## Flow
 
@@ -27,6 +27,7 @@ def print_sum(x, y):
     """
     print(x + y)
 ```
+4. Pass the doctest using ```python -m doctest test.py```
 4. create reST file ```sphinx-apidoc [OPTIONS] -o <OUTPUT_PATH> <MODULE_PATH>```
 5. modify conf.py 
 ```python
