@@ -18,8 +18,8 @@ sys.path.insert(0, '/Users/yoshitakainoue/code/test_docstring_and_sphinx/src')
 # -- Project information -----------------------------------------------------
 
 project = 'project'
-copyright = '2021, Helve'
-author = 'Helve'
+copyright = '2021, Yoshi'
+author = 'Yoshi'
 
 # The short X.Y version
 version = 'v1.0'
