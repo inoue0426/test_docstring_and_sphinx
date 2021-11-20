@@ -1,5 +1,7 @@
 # test_docstring_and_sphinx
 
+This is a template file to manage your research environment with pytest and document using sphinx.
+
 ## Flow
 
 1. ```pip install sphinx```
